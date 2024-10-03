@@ -7,12 +7,12 @@
 
 .cartao__conteudo {
     text-align: center;
-    background-color: rgb(240, 119, 110);
+    background-color: rgb(110, 240, 212);
     height: 100%;
     }
 
     .cartao__conteudo h3 {
-        background-color: rgb(224, 93, 70);
+        background-color: rgb(3, 116, 182);
         text-align: left;
         text-align: center;
         padding: 0.5rem;
@@ -24,7 +24,7 @@
 
 .cartao
 {
-    background-color: rgb(245, 101, 82);
+    background-color: #aef552;
     margin: 1rem 1rem;
     height: 20rem;
     flex-grow: 1;
@@ -32,7 +32,7 @@
 }
 
 body {
-    background-color: rgb(180, 59, 59);
+    background-color: #53d4eb;
     font-family: Bai Jamjuree;
     text-align: center;
 }
